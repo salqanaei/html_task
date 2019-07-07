@@ -2,18 +2,19 @@
 	width: 700px;
 }
 .header {
-	padding: 35px
+	padding: 25px
   	text-align: center;
   	background: #B88742;
-  	color: white;;
+  	color: white;
+  	border: 3px dotted white;
 }
 
 .Name {
-	font-size: 14 px; 
+	font-size: 14 px;
 	text-align: center;
 	font-family: Papyrus;
 	
-	padding: 35px
+	padding: 50px;
 }
 
 #contact {
